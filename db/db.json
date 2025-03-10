@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Ordinary Person - LEO",
+      "singer": "Anirudh Ravichander",
+      "genre": "Indian Film Pop",
+      "imgUrl": "https://i.ytimg.com/vi/q6e_b0NERCA/maxresdefault.jpg",
+      "songUrl": "Songs/Ordinary Person.mp3"
+    },
+    {
+      "id": "2",
+      "title": "Sawadeeka - Vidaamuyarchi",
+      "singer": "Antony das",
+      "genre": "Indian Film Pop",
+      "imgUrl": "https://www.newsx.com/wp-content/uploads/2024/12/SAWDEEKA.webp",
+      "songUrl": "Songs/Sawadeeka.mp3"
+    },
+    {
+      "id": "3",
+      "title": "Pathikichu - Vidaamuyarchi",
+      "singer": "Yogisekar",
+      "genre": "Hip Hop",
+      "imgUrl": "https://i.ytimg.com/vi/WR8PyAhn6tQ/maxresdefault.jpg",
+      "songUrl": "Songs/Pathikichu.mp3"
+    },
+    {
+      "id": "4",
+      "title": "Manasilaayo - vettaiyan",
+      "singer": "Anirudh Ravichander",
+      "genre": "Indian Film Pop",
+      "imgUrl": "https://th.bing.com/th/id/OIP.ZV0VS9ItqlvEGGkY-mgBlgHaEK?rs=1&pid=ImgDetMain",
+      "songUrl": "Songs/Manasilaayo.mp3"
+    },
+    {
+      "id": "5",
+      "title": "Clean shot - vettaiyan",
+      "singer": "Amogh Balaji",
+      "genre": "Indian Film Pop",
+      "imgUrl": "https://www.livemint.com/lm-img/img/2024/10/11/600x338/GZjswV4XQAwpzYI_1728621432560_1728621455421.jpg",
+      "songUrl": "Songs/Clean Shot.mp3"
+    },
+    {
+      "id": "6",
+      "title": "Naa Ready Than",
+      "singer": "Anirudh Ravichander",
+      "genre": "Indian Film Pop",
+      "imgUrl": "https://timesofindia.indiatimes.com/photo/msid-101203536,imgsize-179864.cms",
+      "songUrl": "Songs/Naa Ready.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Madras To Madurai - Ambala",
+      "singer": "Khailash Kher",
+      "genre": "Indian Film Pop",
+      "imgUrl": "https://i.ytimg.com/vi/TejmTyWTZhA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGQgZChkMA8=&rs=AOn4CLCQnkUicvmqXPj8jMe3bL-4uJBCZA",
+      "songUrl": "Songs/Madras To Madurai.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Hey Minnale - Amaran",
+      "singer": " Haricharan, Shweta Mohan ",
+      "genre": "Melody",
+      "imgUrl": "https://th.bing.com/th/id/OIP.KgqfmXBCjVDUl47rcEAtFwHaEK?rs=1&pid=ImgDetMain",
+      "songUrl": "Songs/Hey Minnale.mp3"
+    }
+  ],
+  "favorities": [],
+  "playlist": []
+}
